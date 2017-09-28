@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	String asciiArt = FigletFont.convertOneLine("hello");
+    	String asciiArt = FigletFont.convertOneLine("helloworld");
         System.out.println(asciiArt);
     }
 }
